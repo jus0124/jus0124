@@ -1,4 +1,4 @@
-## Hi there 👋
+## 게임을 사랑하고 개발도 하고 싶은 사람 👋
 
 <div align="center">
 </div>
