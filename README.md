@@ -4,6 +4,40 @@
 </div>
 
 <!--내용 부분-->
+## 🧑🏻‍💻 Durume's Github
+안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
+<br>
+실력이 많이 부족합니다. 배울것도 많습니다.
+<br>
+항상 배우겠다는 마음가짐을 바탕으로 게임을 만드는 개발자가 되기 위해 끊임없이 노력하고 있습니다.
+
+<br/>
+
+## 📖 Project
+| 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
+|-----|---------|-----|-----|-----|
+<br/>
+
+## 🎖️ Activities
+- 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회
+
+<br/>
+  
+## ⚒️ Tech Stack
+- **Framework** : `Spring Boot` `Express.js` `Flutter`
+- **Database** : `MySQL`
+- **Infra** : `AWS(EC2, S3, CodeDeploy)` `Github Actions` `Nginx`
+- **Collaboration & Tool**: `Git` `Github` `Figma` `Notion` `VS Code` `Intellij`
+- **ETC**: `FCM` `Docker`, `Linux(ubuntu)`
+
+
+
+<br/>
+
+## 🔥 Activity
+
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mine5210" /> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) |
+| ------------- | ------------- | ------------- |
 <h3 align="center"> Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=#C00000" />&nbsp
