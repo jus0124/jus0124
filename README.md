@@ -24,7 +24,9 @@
 <br/>
   
 ## ⚒️ Tech Stack
-- **Framework** : <img src="https://img.shields.io/badge/springboot-#6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=#FFFFFF" />&nbspt `Unity` `Flutter`
+- **Framework** :
+<img src="https://img.shields.io/badge/springboot-#6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=#FFFFFF" />&nbspt
+`Unity` `Flutter`
 - **Database** : `MySQL`
 - **Infra** : `AWS(EC2, S3, CodeDeploy)` `Github Actions` `Nginx`
 - **Collaboration & Tool**: `Git` `Github` `Figma` `Notion` `VS Code`
