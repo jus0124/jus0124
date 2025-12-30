@@ -71,8 +71,8 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/adobe%20PremierePro-08253c.svg?style=for-the-badge&logo=adobe%20premierepro&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20photoshop-007ACC.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20PremierePro-6730FC.svg?style=for-the-badge&logo=adobe%20premierepro&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
