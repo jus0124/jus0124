@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-## 🧑🏻‍💻 Durume's Github
+## Durume's Github
 안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
 <br>
 실력이 많이 부족합니다. 배울것도 많습니다.
@@ -13,17 +13,17 @@
 
 <br/>
 
-## 📖 Project
+## Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
 <br/>
 
-## 🎖️ Activities
+## Activities
 - 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회
 
 <br/>
   
-## ⚒️ Tech Stack
+## Tech Stack
 - **Framework** :
 <img src="https://img.shields.io/badge/springboot-#FFFFFF.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
 `Unity` `Flutter`
