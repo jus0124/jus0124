@@ -102,7 +102,8 @@
 <div align="left">
   <a href="https://discord.gg/WvxKrxSx">
     <img src="https://img.shields.io/badge/DUME-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    
+  <a href="https://steamcommunity.com/id/chapchapchomae/">
+    <img src="https://img.shields.io/badge/DURUME-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <a href="mailto:jus012433@gmail.com">
     <img src="https://img.shields.io/badge/jus012433@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     
