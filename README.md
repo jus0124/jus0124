@@ -33,12 +33,12 @@
 ## Tech Stack
 <h3 align="left"> Language </h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/C-390091?style=for-the-badge&logo=C&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=#C00000" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-390091?style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 <h3 align="left"> Framework </h3>
