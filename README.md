@@ -32,7 +32,7 @@
 ## Tech Stack
 <h3 align="left"> Framework </h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/C%23-390091.svg?style=for-the-badge&logo=C%23&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-390091?style=for-the-badge&logo=C%23&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=#C00000" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
