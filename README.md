@@ -100,13 +100,10 @@
 
 <h3 align="left"> Contact </h3>
 <div align="left">
-  </a>
   <a href="https://img.shields.io/discord/users/426424437047558154">
     <img src="https://img.shields.io/badge/DUME-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  </a>
+    
   <a href="mailto:jus012433@gmail.com">
-    <img
-      src="https://img.shields.io/badge/jus012433@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/jus012433@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    
 </div>
