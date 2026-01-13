@@ -5,6 +5,8 @@
 
 <!--내용 부분-->
 ## WOOSUNG's Github
+
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
 <br>
 실력이 많이 부족합니다. 배울것도 많습니다.
