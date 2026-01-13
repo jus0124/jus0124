@@ -66,7 +66,7 @@
 <h3 align="left"> Studying </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/unrealengine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react%20query&logoColor=white" />
 </div>
 
 <br>
