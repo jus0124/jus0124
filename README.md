@@ -28,23 +28,28 @@
 - 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회
 
 <br/>
-  
-## Tech Stack
+## Language
 <h3 align="left"> Framework </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/C-390091?style=for-the-badge&logo=C&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=#C00000" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=ffdd54" />&nbsp
 </div>
 
+
+## Tech Stack
+<h3 align="left"> Framework </h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
 </div>
 
 
