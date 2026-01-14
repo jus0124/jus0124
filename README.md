@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <p align=center><img src="https://komarev.com/ghpvc/?username=jus0124&style=for-the-badge&color=c15049&label=Visited+People" alt="Profile Views" /></p>
+  <p align=center><img src="https://komarev.com/ghpvc/?username=jus0124&style=for-the-badge&color=a70d08&label=Visited+People" alt="Profile Views" /></p>
 </div>
 
 <!--내용 부분-->
