@@ -34,6 +34,9 @@
 ## Activities
 - 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회
 
+## Certificate
+- Digital Video using Adobe Premiere Pro 2020 (v 14.x) [2023-10-15]
+
 <br/>
 
 
