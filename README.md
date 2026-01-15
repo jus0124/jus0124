@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ## Welcome to the GitHub of the Duruumi!
+  ## 🫰Welcome to the GitHub of the Duruumi!🫰
   
   <picture>
   <p align=center><img src="https://komarev.com/ghpvc/?username=jus0124&style=for-the-badge&color=a70d08&label=Visited+People" alt="Profile Views" /></p>
@@ -10,7 +10,7 @@
 </div>
 
 <!--내용 부분-->
-## WOOSUNG's Github 
+## ✌️WOOSUNG's Github 
 
 안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
 <br>
@@ -21,7 +21,7 @@
 
 <br/>
 
-## Project
+## 💻Project
 | 프로젝트명 | 설명 | 역할 | 형태 |
 |---------|-----|-----|-----|
 |SQL 데이터베이스를 이용한 쇼핑몰|SQL 데이터베이스를 활용, 웹 사이트 쇼핑몰 제작|프론트엔드, 서버|---|
@@ -31,12 +31,12 @@
 
 <br/>
 
-## Activities
+## 🏆Activities 
 - 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회
 
 <br/>
 
-## Certificate
+## 🏅Certificate 
 - Digital Video using Adobe Premiere Pro 2020 (v 14.x) [2023-10-15]
 
 <br/>
@@ -44,7 +44,7 @@
 
 
 
-## Tech Stack
+## 💾Tech Stack
 <h3 align="left"> Language </h3>
 <div align="left">
   <picture>
@@ -136,6 +136,7 @@
 </div>
 <br>
 
+## 👋Contact
 <h3 align="left"> Contact </h3>
 <div align="left">
   <a href="https://discord.gg/WvxKrxSx">
