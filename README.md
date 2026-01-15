@@ -1,6 +1,9 @@
-## Welcome to the GitHub of the DURUUMI!
+
 
 <div align="center">
+  
+  ## Welcome to the GitHub of the DURUUMI!
+  
   <picture>
   <p align=center><img src="https://komarev.com/ghpvc/?username=jus0124&style=for-the-badge&color=a70d08&label=Visited+People" alt="Profile Views" /></p>
   </picture>
