@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ## Welcome to the GitHub of the DURUUMi!
+  ## Welcome to the GitHub of the Duruumi!
   
   <picture>
   <p align=center><img src="https://komarev.com/ghpvc/?username=jus0124&style=for-the-badge&color=a70d08&label=Visited+People" alt="Profile Views" /></p>
