@@ -51,64 +51,82 @@
 
 <br>
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </picture>
 </div>
 <br>
 
 <h3 align="left"> Framework </h3>
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=000000" />
+    </picture>
 </div>
 
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+   </picture> 
 </div>
 
 
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  </picture>
 </div>
 
 <br>
 
 <h3 align="left"> Studying </h3>
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/unrealengine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react%20query&logoColor=white" />
+    </picture>
 </div>
 
 <br>
 
 <h3 align="left"> Database </h3>
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    </picture>
 </div>
 
 <br>
 
 <h3 align="left"> Collaboration & Tool </h3>
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+    </picture>
 </div>
 
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/adobe%20photoshop-007ACC.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
   <img src="https://img.shields.io/badge/adobe%20PremierePro-6730FC.svg?style=for-the-badge&logo=adobe%20premierepro&logoColor=37abff" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    </picture>
 </div>
 
 <br>
 
 <div align="left">
+  <picture>
   <img src="https://img.shields.io/badge/VSCode-3578E5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
+    </picture>
 </div>
 <br>
 
