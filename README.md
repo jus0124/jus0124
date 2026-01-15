@@ -137,7 +137,6 @@
 <br>
 
 ## 👋Contact
-<h3 align="left"> Contact </h3>
 <div align="left">
   <a href="https://discord.gg/WvxKrxSx">
     <img src="https://img.shields.io/badge/DUMI-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
