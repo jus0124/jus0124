@@ -49,7 +49,6 @@
 <div align="left">
   <picture>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-390091?style=for-the-badge&logo=Csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
